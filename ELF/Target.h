@@ -129,6 +129,7 @@ TargetInfo *getAVRTargetInfo();
 TargetInfo *getPPC64TargetInfo();
 TargetInfo *getPPCTargetInfo();
 TargetInfo *getSPARCV9TargetInfo();
+TargetInfo *getSimpleTargetInfo();
 TargetInfo *getX32TargetInfo();
 TargetInfo *getX86TargetInfo();
 TargetInfo *getX86_64TargetInfo();
